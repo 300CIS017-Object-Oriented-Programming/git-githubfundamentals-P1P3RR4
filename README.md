@@ -105,3 +105,16 @@ You can check out the GitHub Explore website [at github.com/explore](https://git
 * [GitHub's Learning Lab](https://lab.github.com/)
 * [Education community forum](https://education.github.community/)
 * [GitHub community forum](https://github.community/)
+
+# some uses of styles in a markdown as I know
+## ***que aprendi?:***
+- puedes cambiar tus propios archivos teniendo un seguimiento de los pasos que he hecho
+- se puede comparar y mejorar el trabajo entre equipos
+> diferentes usos
+'''
+intentando diferentes formas
+
+'''
+lo que mas me gusto :smile: [si](https://www.youtube.com/watch?v=BBJa32lCaaY)
+
+![que imagen](https://c.tenor.com/MYWssTToktMAAAAC/press-button-explosion.gif)
